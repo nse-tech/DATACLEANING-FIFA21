@@ -24,6 +24,7 @@ Errors in spellings and values: Some columns had errors in spellings and also in
 Irrelevant data.
 
 Cleaning Process
+
 1) I began my cleaning process by extracting the Player name from the PlayerUrl since the Players name in the LongName column had a lot of special characters.
 2) Next I standardise the Joined date format. I converted the date from Month Day, Year to the recommended international standard YYYY-MM-DD.
 3) Then, I cleaned the club column format. The club field had a lot of misspellings and special characters, so I cleaned and replaced them.
@@ -38,9 +39,11 @@ Cleaning Process
 
 
 Results
+
 After cleaning the dataset, the data was more reliable and consistent. The dataset could now be used for future analysis.
 
 Conclusion
+
 In conclusion, cleaning the FIFA 21 dataset using SQL was a necessary step to obtain a reliable dataset for analysis. By following the steps outlined in this documentation, the dataset was successfully cleaned and prepared for analysis.
 
 
