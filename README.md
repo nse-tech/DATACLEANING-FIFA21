@@ -12,6 +12,7 @@ About the Dataset
 The FIFA 21 dataset contains player and team statistics from the popular video game FIFA 21. The dataset was gotten from Kaggle and was tagged messy, raw dataset showing that it is an ideal dataset for a data cleaning project. 
 
 Data Assessment
+
 Before cleaning the data, it was necessary to assess the quality and completeness of the dataset. The following issues were discovered during the assessment:
 
 Missing data: some of the player and team statistics were missing from the dataset.
